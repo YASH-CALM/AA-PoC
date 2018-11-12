@@ -248,3 +248,5 @@ ModelManifest.xml
 # CALM TEAM
 *.env
 *App.config
+*.DS_Store
+
